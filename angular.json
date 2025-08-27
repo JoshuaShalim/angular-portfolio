@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "angular-portfolio": {
+    "joshua-shalim-portfolio": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -82,10 +82,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "angular-portfolio:build:production"
+              "buildTarget": "joshua-shalim-portfolio:build:production"
             },
             "development": {
-              "buildTarget": "angular-portfolio:build:development"
+              "buildTarget": "joshua-shalim-portfolio:build:development"
             }
           },
           "defaultConfiguration": "development"

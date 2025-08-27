@@ -1,6 +1,6 @@
 {
   "buildCommand": "npm run vercel-build",
-  "outputDirectory": "dist/angular-portfolio/browser",
+  "outputDirectory": "dist/joshua-shalim-portfolio/browser",
   "rewrites": [
     {
       "source": "/(.*)",

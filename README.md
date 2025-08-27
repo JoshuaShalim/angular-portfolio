@@ -1,4 +1,4 @@
-# Angular Portfolio
+# Joshua Shalim Portfolio
 
 A modern, responsive portfolio website built with Angular 20, featuring a clean design and smooth animations.
 
@@ -27,8 +27,8 @@ A modern, responsive portfolio website built with Angular 20, featuring a clean 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/JoshuaShalim/angular-portfolio.git
-   cd angular-portfolio
+   git clone https://github.com/JoshuaShalim/joshua-shalim-portfolio.git
+   cd joshua-shalim-portfolio
    ```
 
 2. Install dependencies:
@@ -51,7 +51,7 @@ To build the project for production:
 npm run build
 ```
 
-The build artifacts will be stored in the `dist/angular-portfolio/` directory.
+The build artifacts will be stored in the `dist/joshua-shalim-portfolio/` directory.
 
 ## 🚀 Deployment
 
@@ -102,7 +102,7 @@ npm test
 
 Joshua Shalim - [joshuashalim15@gmail.com](mailto:joshuashalim15@gmail.com)
 
-Project Link: [https://github.com/JoshuaShalim/angular-portfolio](https://github.com/JoshuaShalim/angular-portfolio)
+Project Link: [https://github.com/JoshuaShalim/joshua-shalim-portfolio](https://github.com/JoshuaShalim/joshua-shalim-portfolio)
 
 ## 📄 License
 
