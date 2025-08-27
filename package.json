@@ -5,6 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "vercel-build": "ng build --configuration static",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "serve:ssr:angular-portfolio": "node dist/angular-portfolio/server/server.mjs",

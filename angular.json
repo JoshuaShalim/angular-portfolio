@@ -49,7 +49,26 @@
                   "maximumError": "8kB"
                 }
               ],
-              "outputHashing": "all"
+              "outputHashing": "all",
+              "outputMode": "static"
+            },
+            "static": {
+              "outputMode": "static",
+              "outputHashing": "all",
+              "server": false,
+              "ssr": false,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "500kB",
+                  "maximumError": "1MB"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "8kB",
+                  "maximumError": "16kB"
+                }
+              ]
             },
             "development": {
               "optimization": false,
